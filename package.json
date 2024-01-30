@@ -1,0 +1,19 @@
+{
+  "name": "md-preview",
+  "version": "1.0.0",
+  "description": "A command-line tool for previewing README.md files in a web browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["markdown", "preview", "README", "browser", "command-line"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "^14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/md-preview.git"
+  }
+}
