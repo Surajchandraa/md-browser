@@ -1,5 +1,5 @@
 {
-  "name": "md-preview",
+  "name": "md-show",
   "version": "1.0.0",
   "description": "A command-line tool for previewing README.md files in a web browser.",
   "main": "index.js",
