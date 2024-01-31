@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Surajchandraa/md-preview",
   "bin": {
-    "md": "./index.js"
+    "mdp": "./index.js"
   }
   
 }
