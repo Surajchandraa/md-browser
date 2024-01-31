@@ -14,6 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/md-preview.git"
+    "url": "https://github.com/Surajchandraa/md-preview.git"
+  },
+  "homepage": "https://github.com/Surajchandraa/md-preview",
+  "bin": {
+    "md": "./index.js"
   }
+  
 }
