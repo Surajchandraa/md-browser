@@ -1,5 +1,5 @@
-# md-show
-`md-show` is a simple Node.js package that creates an HTTP server to preview Markdown files as HTML content.
+# md-browser
+`md-browser` is a simple Node.js package that creates an HTTP server to preview Markdown files as HTML content.
 
 ## Features:
 1. Converts Markdown files to HTML using the markdown-it library.
@@ -8,8 +8,8 @@
 
 ## Installation:
 
-To use md-show, you need to have Node.js installed on your system.
-`npm install -g md-show`
+To use md-browser, you need to have Node.js installed on your system.
+`npm install -g md-browser`
 
 ## Usage:
 Once installed, you can use the md command followed by the path to your Markdown file:
