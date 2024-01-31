@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+
+
 const fs = require('fs');
 const http = require('http');
 const markdownIt = require('markdown-it');
@@ -8,7 +11,7 @@ let readmepath=process.argv[2];
 let pr=process.argv[3];
 
 
-if(!fs.existsSync(readmepath)){
+if(!fs.existsSync(readmepath) || !readmepath){
     console.log(`README file '${readmepath}' not found.`);
     process.exit(1);
 }
